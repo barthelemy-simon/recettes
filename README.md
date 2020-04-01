@@ -1,2 +1,3 @@
-# recettes
-Mes recettes
+# Recettes
+
+Quelques recettes personnelles :
