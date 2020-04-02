@@ -1,6 +1,8 @@
 # Chana masala
 
-Remarque : un peu de lait de coco ? 
+## Remarques : 
+* Ajouter un peu de lait de coco. 
+* La coriandre fraîche est importante. 
 
 ## Ingrédients :
 * 1 oignon
