@@ -1,5 +1,7 @@
 # Chana masala
 
+Remarque : un peu de lait de coco ? 
+
 ## Ingrédients :
 * 1 oignon
 * 1 tomate
