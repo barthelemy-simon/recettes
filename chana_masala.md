@@ -17,7 +17,7 @@
 * 1 càc de garam masala 
 * 1/2 càc de curcuma
 * 1 pincée de sel
-* 1 boite (540mL) de pois chiches égouttés
+* 1 boite de conserve (540mL) de pois chiches égouttés
 * Coriandre fraîche
 
 ## Préparation :
