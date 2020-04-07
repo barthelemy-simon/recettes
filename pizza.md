@@ -34,5 +34,5 @@
 * La piquer à l’aide d'une fourchette en laissant un bord  d'1cm.
 
 ### L’apprêt :
-* Couvrir d’un linge légèrement humide et laisser pousser 1 h.
+* Couvrir d’un linge légèrement humide et laisser pousser 1h.
 * La pâte est prête.
