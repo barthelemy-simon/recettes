@@ -31,11 +31,14 @@ Règles dans la rédaction des recettes :
 	| secondes          | 10s      |
 * L'effort sera fait d'être **le plus précis** possible sur les ingrédients (par exemple, en précisant levure *boulangère* ou *chimique*).
 * Dans la préparation, **les quantités des ingrédients sont répétées**.
-* Pour les recettes comprenant plusieurs grandes étapes espacées (par exemple les pains), il sera possible de les séparer en parties au sein de la préparation de la manière suivante :
+* Pour les recettes comprenant plusieurs grandes étapes espacées (par exemple les pains), il sera possible de les séparer en parties au sein de la préparation, en plaçant les repos au sein de parties propres, de la manière suivante :
 > #### Préparation :
 > ##### Partie 1 :
 > * Étape n°1.1
-> * Étape n°1.2 se terminant par un repos.
+> * Étape n°1.2
 > ##### Partie 2 :
-> * Étape n°2.1
-> * Étape n°2.2
+> * Étape de préparation au repos
+> * Faire reposer pendant...
+> ##### Partie 3 :
+> * Étape n°3.1
+> * Étape n°3.2
