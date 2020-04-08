@@ -4,7 +4,8 @@
 * 240g de farine blanche
 * Sel
 * 15cL d’eau chaude
-* 1 càs + 1 càc d’huile de sésame
+* 2 càs + 1 càc d’huile de sésame
+* 2 càs de sauce au soja
 * 1 oignon rouge
 * 2 oignons botte
 * 2 gousses d’ail
@@ -13,7 +14,6 @@
 * 80g de chou chinois
 * 1 carotte
 * 2 càs de vinaigre de riz
-* 1 càs de sauce au soja
 * 1/2 càc de flocons de chili
 * Huile pour la cuisson
 
@@ -30,7 +30,7 @@
 * Hacher menu 2 oignons botte, 2 gousses d'ail, 5g de gingembre et 60g de champignons.
 * Couper finement 80g de chou chinois.
 * Raper grossièrement une carotte.
-* Faire chauffer 1 càs d'huile de sésame dans une casserole.
+* Faire chauffer 2 càs d'huile de sésame et 1 càs de sauce soja dans une casserole.
 * Faire revenir les oignons et l'ail pendant environ 3min.
 * Ajouter le gingembre et les champignons et poursuivre la cuisson pendant environ 5min.
 * Baisser le feu, ajouter le chou, la carotte et 1 càs de vinaigre de riz puis laisser mijoter pendant environ 2min.
