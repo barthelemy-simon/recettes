@@ -13,7 +13,7 @@
 
 ### Préparation de la levure :
 * Prélever environ 50g d'eau des 130g prévus pour la recette et tiédir à 37°C environ (avec le thermomix, 2min / 37°C / vit. 2).
-* Diluer la levure déshydratée dans cette eau avec 1 càc de sucre et 1 càc de farine. Attendre 10min que la levure s'active et forme des bulles.
+* Diluer 1.25g de levure déshydratée dans cette eau avec 1 càc de sucre et 1 càc de farine. Attendre 10min que la levure s'active et forme des bulles.
 
 ### Pétrissage à la main :
 * Mettre 250g de farine T65 dans un saladier et faire un large puits.
@@ -22,7 +22,7 @@
 * Incorporer 15g d'huile d'olive et malaxer jusqu'à ce que la pâte ne colle plus aux bords du saladier.
 * Pétrir ensuite la pâte sur le plan de travail.
 
-### Le pointage :
+### Pointage :
 * Former une boule et couvrir d'un linge légèrement humide.
 * Laisser pousser 2h. À mi-parcours, rabattre la pâte (la plier en deux).
 * En fin de pousse, la pâte aura pris du volume.
@@ -33,6 +33,6 @@
 * Déposer l’abaisse de pâte sur une plaque recouverte de papier sulfurisé.
 * La piquer à l’aide d'une fourchette en laissant un bord  d'1cm.
 
-### L’apprêt :
+### Apprêt :
 * Couvrir d’un linge légèrement humide et laisser pousser 1h.
 * La pâte est prête.
