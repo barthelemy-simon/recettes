@@ -23,7 +23,7 @@
 * Pétrir ensuite la pâte sur le plan de travail.
 
 ### Pointage :
-* Former une boule et couvrir d'un linge légèrement humide.
+* Former une boule et couvrir.
 * Laisser pousser 2h. À mi-parcours, rabattre la pâte (la plier en deux).
 * En fin de pousse, la pâte aura pris du volume.
 
