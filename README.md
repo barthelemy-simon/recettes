@@ -1,6 +1,26 @@
 # Recettes
 
-Règles dans la rédaction des recettes :
+## Liens :
+### Plats :
+* [Chana Masala (Curry de pois chiches)](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/chana_masala.md)
+* [Gyozas végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gyozas_vege.md)
+* [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
+* [Quiche lorraine](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/quiche.md)
+
+### Desserts :
+* [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
+* [Gâteau au chocolat](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/gateau_chocolat.md)
+* [Gâteau à la crème de marrons](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/gateau_marrons.md)
+
+### Pains et pâtes :
+* [Brioche au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/brioche.md)
+* [Crumpets au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/crumpets.md)
+* [Pain de campagne au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pain_campagne.md)
+* [Pain classique au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pain_classique.md)
+* [Pitas au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pita.md)
+* [Pâte à pizza au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pizza.md)
+
+## Règles dans la rédaction des recettes :
 * Les recettes se composent de la manière suivante :
 > ### Nom de la recette
 > #### Ingrédients : (pour 2 personnes *ou autre quantité pertinente avec la recette*)
