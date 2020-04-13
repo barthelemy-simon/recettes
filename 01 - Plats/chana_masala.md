@@ -1,4 +1,4 @@
-# Chana masala
+# Chana Masala (Curry de pois chiches)
 
 ## Remarques : 
 * Ajouter un peu de lait de coco. 
