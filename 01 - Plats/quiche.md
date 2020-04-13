@@ -1,4 +1,4 @@
-# Quiche lorraine
+# Quiche Lorraine
 
 ## Ingrédients :
 * 200g de pâte brisée
