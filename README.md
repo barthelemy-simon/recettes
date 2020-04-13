@@ -14,6 +14,7 @@
 
 ### Pains et pâtes :
 * [Brioche au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/brioche.md)
+* [Buns au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/buns.md)
 * [Crumpets au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/crumpets.md)
 * [Pain de campagne au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pain_campagne.md)
 * [Pain classique au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pain_classique.md)
