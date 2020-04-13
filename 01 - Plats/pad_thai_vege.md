@@ -1,4 +1,4 @@
-# Pad Thai Végétarien
+# Pad-Thaï Végétarien
 
 ## Ingrédients : (pour 4 personnes)
 * 400g de nouilles de riz ou des linguines.
