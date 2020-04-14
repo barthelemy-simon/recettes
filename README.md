@@ -9,6 +9,7 @@
 
 ### Desserts :
 * [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
+* [Cookies](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/cookies.md)
 * [Gâteau au chocolat](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/gateau_chocolat.md)
 * [Gâteau à la crème de marrons](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/gateau_marrons.md)
 
