@@ -3,13 +3,10 @@
 ## Ingrédients : (pour 4 personnes)
 * 400g de nouilles de riz ou des linguines.
 * 600g de chou chinois
-* Huile d'olive
 * Huile de coco
 * 1 oignon
 * 2 gousses d'ail
 * 2 échalotes
-* Sel
-* Poivre
 * 2 carottes
 * 1 poivron rouge
 * 1 poivron jaune

@@ -6,8 +6,8 @@
 * [Gyozas végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gyozas_vege.md)
 * [Lasagnes végétariennes](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/lasagnes_vege.md)
 * [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
-* [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/sauce_pesto.md)
 * [Quiche lorraine](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/quiche.md)
+* [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/sauce_pesto.md)
 
 ### Desserts&nbsp;:
 * [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
@@ -35,6 +35,7 @@
 > #### Préparation :
 > * Étape n°1
 > * Étape n°2
+
 * Pour les recettes comprenant plusieurs grandes étapes espacées (par exemple les pains), il sera possible de les séparer en parties au sein de la préparation, en plaçant les repos au sein de parties propres, de la manière suivante :
 > #### Préparation :
 > ##### Partie 1 :
@@ -55,10 +56,11 @@
   * Huile d'olive
   * Poivre
   * Sel
+  * Sucre
 
   Par exemple, l'huile nécessaire à la cuisson d'oignons ne sera pas indiquée, tandis qu'elle le sera pour une sauce au pesto&nbsp;; le beurre pour la cuisson d'une viande ne sera pas indiqué, mais il le sera dans un gâteau&nbsp;; le sel pour l'assaisonnement d'un plat ne sera pas indiqué, mais il le sera pour un pain.
 * Les ingrédients doivent être **indiqués dans l'ordre dans lequel ils apparaissent** dans la recette.
-* Concernant les unités, nous utiliserons la syntaxe suivante&nbsp;:
+* Concernant les unités, la syntaxe suivante doit être utilisée&nbsp;:
 	| Unité             | Syntaxe  |
 	| ----------------- | -------: |
 	| kilogrammes       | 1kg      |
@@ -79,4 +81,8 @@
 * L'effort sera fait d'être **le plus précis** possible sur les ingrédients (par exemple, en précisant levure *boulangère* ou *chimique*).
 
 ### Préparation&nbsp;:
-* Dans la préparation, **les quantités des ingrédients sont répétées**.
+* Dans la préparation, **les quantités des ingrédients doivent être répétées**.
+* Les étapes doivent être décrites par des **phrases infinitives**.
+
+### Remarques :
+* Des remarques peuvent être ajoutées pour aider le cuisinier. Si celles-ci sont ponctuelles et destinées à indiquer des pistes d'amélioration en vue de prochains essais avant d'être intégrées, elles seront placées au début de la recette. Si celles-ci sont générales et concernent, par exemple, une possibilité de remplacer un aliment, elles seront placées en fin de recette.

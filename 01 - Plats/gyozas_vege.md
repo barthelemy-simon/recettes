@@ -2,9 +2,7 @@
 
 ## Ingrédients : (pour environ 20 pièces)
 * 240g de farine blanche
-* Sel
-* 15cL d’eau chaude
-* 2 càs + 1 càc d’huile de sésame
+* 2.5 càs d’huile de sésame
 * 2 càs de sauce au soja
 * 1 oignon rouge
 * 2 oignons botte
@@ -15,7 +13,6 @@
 * 1 carotte
 * 2 càs de vinaigre de riz
 * 1/2 càc de flocons de chili
-* Huile pour la cuisson
 
 ## Préparation :
 ### Préparation de la pâte :

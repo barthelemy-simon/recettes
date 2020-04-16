@@ -8,8 +8,6 @@
 * 20cL de crème fraîche
 * 20cL de lait
 * Muscade
-* Sel
-* Poivre
 
 ## Préparation :
 * Préchauffer le four à 180°C.
