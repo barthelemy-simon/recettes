@@ -49,7 +49,7 @@
 > * Étape n°3.2
 
 ### Ingrédients&nbsp;:
-* La liste des ingrédients sert de **base pour établir une liste de course**. Dans ce cadre, ils doivent tous être indiqués à l'exception des "ingrédients de fond de tiroir", si tant est qu'ils soient utilisés dans des quantités raisonnables et non précises. L'eau ne sera jamais indiquée. Les "ingrédients de fond de tiroir" font exhaustivement partie de la liste suivante&nbsp;:
+* La liste des ingrédients sert de **base pour établir une liste de course**. Dans ce cadre, ils doivent tous être indiqués à l'exception des "ingrédients de fond de tiroir", si tant est qu'ils soient utilisés dans des quantités raisonnables (on prendra une limite à 10g) et non précises. L'eau ne sera jamais indiquée. Les "ingrédients de fond de tiroir" font exhaustivement partie de la liste suivante&nbsp;:
   * Beurre
   * Farine
   * Huile de cuisson
@@ -58,7 +58,7 @@
   * Sel
   * Sucre
 
-  Par exemple, l'huile nécessaire à la cuisson d'oignons ne sera pas indiquée, tandis qu'elle le sera pour une sauce au pesto&nbsp;; le beurre pour la cuisson d'une viande ne sera pas indiqué, mais il le sera dans un gâteau&nbsp;; le sel pour l'assaisonnement d'un plat ne sera pas indiqué, mais il le sera pour un pain.
+  Par exemple, l'huile nécessaire à la cuisson d'oignons ne sera pas indiquée, tandis qu'elle le sera pour une sauce au pesto&nbsp;; le beurre pour la cuisson d'une viande ne sera pas indiqué, mais il le sera dans un gâteau.
 * Les ingrédients doivent être **indiqués dans l'ordre dans lequel ils apparaissent** dans la recette.
 * Concernant les unités, la syntaxe suivante doit être utilisée&nbsp;:
 	| Unité             | Syntaxe  |
@@ -83,6 +83,7 @@
 ### Préparation&nbsp;:
 * Dans la préparation, **les quantités des ingrédients doivent être répétées**.
 * Les étapes doivent être décrites par des **phrases infinitives**.
+* Les ingrédients énumérables doivent être indiqués avec un chiffre dans la préparation.
 
 ### Remarques :
 * Des remarques peuvent être ajoutées pour aider le cuisinier. Si celles-ci sont ponctuelles et destinées à indiquer des pistes d'amélioration en vue de prochains essais avant d'être intégrées, elles seront placées au début de la recette. Si celles-ci sont générales et concernent, par exemple, une possibilité de remplacer un aliment, elles seront placées en fin de recette.
