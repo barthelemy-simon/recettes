@@ -7,7 +7,6 @@
 * 1 oeuf
 * 150g de farine
 * 1/2 càs de levure chimique
-* 1 pincée de sel
 * 2 càs de cacao en poudre sucré (facultatif)
 * 100g de chocolat en pépites
 
@@ -22,4 +21,4 @@
 * Préchauffer le four à 190°C.
 * Sortir le boudin du frigo, couper des tranches égales de taille moyenne.
 * Les répartir sur un papier sulfurisé suffisamment écartés pour que cela puisse gonfler.
-* Faire cuire 8 min à four déjà chaud et les sortir même si cela à l’air mou, car ils durcissent à l’air libre.
+* Faire cuire 8min à four déjà chaud et les sortir même si cela à l’air mou, car ils durcissent à l’air libre.

@@ -5,7 +5,7 @@
 * 90g de beurre
 * 90g de sucre
 * 3 oeufs
-* 1 càs de farine
+* 3 càs de farine
 
 ## Préparation :
 * Préchauffer le four à 180°C.
