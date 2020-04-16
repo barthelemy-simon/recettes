@@ -1,21 +1,21 @@
 # Recettes
 
-## Liens :
-### Plats :
+## Liens&nbsp;:
+### Plats&nbsp;:
 * [Chana Masala (Curry de pois chiches)](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/chana_masala.md)
 * [Gyozas végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gyozas_vege.md)
 * [Lasagnes végétariennes](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/lasagnes_vege.md)
 * [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
-* [Sauce pesto](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/sauce_pesto.md)
+* [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/sauce_pesto.md)
 * [Quiche lorraine](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/quiche.md)
 
-### Desserts :
+### Desserts&nbsp;:
 * [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
 * [Cookies](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/cookies.md)
 * [Gâteau au chocolat](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/gateau_chocolat.md)
 * [Gâteau à la crème de marrons](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/gateau_marrons.md)
 
-### Pains et pâtes :
+### Pains et pâtes&nbsp;:
 * [Brioche au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/brioche.md)
 * [Buns au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/buns.md)
 * [Crumpets au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/crumpets.md)
@@ -24,8 +24,9 @@
 * [Pitas au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pitas.md)
 * [Pâte à pizza au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pizza.md)
 
-## Règles dans la rédaction des recettes :
-* Les recettes se composent de la manière suivante :
+## Règles dans la rédaction des recettes&nbsp;:
+### Architecture&nbsp;:
+* Les recettes doivent se composer de la manière suivante&nbsp;:
 > ### Nom de la recette
 > #### Ingrédients : (pour 2 personnes *ou autre quantité pertinente avec la recette*)
 > * Ingrédient n°1
@@ -34,8 +35,30 @@
 > #### Préparation :
 > * Étape n°1
 > * Étape n°2
-* Les ingrédients sont **indiqués dans l'ordre dans lequel ils apparaissent** dans la recette.
-* Concernant les unités, nous utiliserons la syntaxe suivante :
+* Pour les recettes comprenant plusieurs grandes étapes espacées (par exemple les pains), il sera possible de les séparer en parties au sein de la préparation, en plaçant les repos au sein de parties propres, de la manière suivante :
+> #### Préparation :
+> ##### Partie 1 :
+> * Étape n°1.1
+> * Étape n°1.2
+> ##### Partie 2 :
+> * Étape de préparation au repos
+> * Faire reposer pendant...
+> ##### Partie 3 :
+> * Étape n°3.1
+> * Étape n°3.2
+
+### Ingrédients&nbsp;:
+* La liste des ingrédients sert de **base pour établir une liste de course**. Dans ce cadre, ils doivent tous être indiqués à l'exception des "ingrédients de fond de tiroir", si tant est qu'ils soient utilisés dans des quantités raisonnables et non précises. L'eau ne sera jamais indiquée. Les "ingrédients de fond de tiroir" font exhaustivement partie de la liste suivante&nbsp;:
+  * Beurre
+  * Farine
+  * Huile de cuisson
+  * Huile d'olive
+  * Poivre
+  * Sel
+
+  Par exemple, l'huile nécessaire à la cuisson d'oignons ne sera pas indiquée, tandis qu'elle le sera pour une sauce au pesto&nbsp;; le beurre pour la cuisson d'une viande ne sera pas indiqué, mais il le sera dans un gâteau&nbsp;; le sel pour l'assaisonnement d'un plat ne sera pas indiqué, mais il le sera pour un pain.
+* Les ingrédients doivent être **indiqués dans l'ordre dans lequel ils apparaissent** dans la recette.
+* Concernant les unités, nous utiliserons la syntaxe suivante&nbsp;:
 	| Unité             | Syntaxe  |
 	| ----------------- | -------: |
 	| kilogrammes       | 1kg      |
@@ -54,15 +77,6 @@
 	| minutes           | 1min30   |
 	| secondes          | 10s      |
 * L'effort sera fait d'être **le plus précis** possible sur les ingrédients (par exemple, en précisant levure *boulangère* ou *chimique*).
+
+### Préparation&nbsp;:
 * Dans la préparation, **les quantités des ingrédients sont répétées**.
-* Pour les recettes comprenant plusieurs grandes étapes espacées (par exemple les pains), il sera possible de les séparer en parties au sein de la préparation, en plaçant les repos au sein de parties propres, de la manière suivante :
-> #### Préparation :
-> ##### Partie 1 :
-> * Étape n°1.1
-> * Étape n°1.2
-> ##### Partie 2 :
-> * Étape de préparation au repos
-> * Faire reposer pendant...
-> ##### Partie 3 :
-> * Étape n°3.1
-> * Étape n°3.2

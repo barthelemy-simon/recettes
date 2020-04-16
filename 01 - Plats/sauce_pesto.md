@@ -1,4 +1,4 @@
-# Sauce Pesto
+# Sauce au Pesto
 
 ## Ingrédients : (pour agrémenter environ 500g de pâtes)
 * 70g de feuilles de basilic (ou de pousses d'épinard)
