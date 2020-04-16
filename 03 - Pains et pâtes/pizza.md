@@ -1,18 +1,14 @@
 # Pâte à pizza au levain
 
 ## Ingrédients : (pour 1 assez grosse pâte)
-* 250g de farine T65 + 1 càc
-* 130g d’eau à 20°
+* 250g de farine T65
 * 50g de levain liquide
 * 1.25g de levure de boulanger déshydratée
-* 5g de sel (non raffiné de préférence)
-* 7.5g de sucre en poudre + 1 càc
-* 15g d’huile d’olive
 
 ## Préparation :
 
 ### Préparation de la levure :
-* Prélever environ 50g d'eau des 130g prévus pour la recette et tiédir à 37°C environ (avec le thermomix, 2min / 37°C / vit. 2).
+* Prélever environ 50g d'eau et tiédir à 37°C environ (avec le thermomix, 2min / 37°C / vit. 2).
 * Diluer 1.25g de levure déshydratée dans cette eau avec 1 càc de sucre et 1 càc de farine. Attendre 10min que la levure s'active et forme des bulles.
 
 ### Pétrissage à la main :

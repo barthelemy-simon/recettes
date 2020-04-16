@@ -13,7 +13,7 @@
 ## Préparation :
 * Sortir 95g de beurre dans un endroit chaud pour le ramollir. Il doit être bien mou mais pas liquide.
 * Incorporer 90g de cassonade.
-* Ajouter un sachet sucre vanillé, et un oeuf et bien mélanger.
+* Ajouter 1 sachet sucre vanillé, et 1 oeuf et bien mélanger.
 * Incorporer 150g de farine, 1/2 càs de levure chimique, une pincée de sel et 2 càs de cacao (facultatif).
 * Rajouter 100g pépites de chocolats (ou autre garniture).
 * Ne pas hésiter à travailler la pâte à la main, pour un mélange homogène.

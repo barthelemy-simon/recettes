@@ -2,14 +2,12 @@
 
 ## Ingrédients : (pour 2 pains moyens)
 * 200g de levain liquide
-* 400g d'eau
 * 600g de mélange de farines
-* 12g de sel
 
 ## Préparation :
 
-### Préparation :
-* Dans un bol, mélanger 200g de levain, 400g d'eau et 600g de mélange de farines. Les quantités exactes importent peu : il faut uniquement conserver les proportions : une unité de levain pour 2 unités d'eau et 3 unités de farine. Le sel sera ajouter par la suite.
+### Mélange :
+* Dans un bol, mélanger 200g de levain, 400g d'eau et 600g de mélange de farines. Les quantités exactes importent peu : il faut uniquement conserver les proportions : 1 unité de levain pour 2 unités d'eau et 3 unités de farine. Le sel sera ajouter par la suite.
 * Mélanger vigoureusement pour former une pâte grossière mais homogène.
 
 ### Autolyse :

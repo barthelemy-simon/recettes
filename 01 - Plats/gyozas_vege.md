@@ -22,11 +22,11 @@
 * Couvrir et laisser reposer pendant environ 1h à température ambiante.
 
 ### Préparation de la farce :
-* Couper en fines rondelles un oignon rouge.
+* Couper en fines rondelles 1 oignon rouge.
 * Réserver la verdure des oignons botte.
 * Hacher menu 2 oignons botte, 2 gousses d'ail, 5g de gingembre et 60g de champignons.
 * Couper finement 80g de chou chinois.
-* Raper grossièrement une carotte.
+* Raper grossièrement 1 carotte.
 * Faire chauffer 2 càs d'huile de sésame et 1 càs de sauce soja dans une casserole.
 * Faire revenir les oignons et l'ail pendant environ 3min.
 * Ajouter le gingembre et les champignons et poursuivre la cuisson pendant environ 5min.

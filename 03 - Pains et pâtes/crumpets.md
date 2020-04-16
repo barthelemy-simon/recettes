@@ -2,8 +2,6 @@
 
 ## Ingrédients : (pour environ 8 crumpets)
 * 300g de levain liquide (pas forcément mûr, il peut sortir du réfrigérateur)
-* 1 càc de sucre
-* 1/2 càc de sel
 * 1/2 càc de levure chimique (ou de bicarbonate de sodium)
 
 ## Préparation :

@@ -4,8 +4,6 @@
 * 40g de levain liquide
 * 85g de farine blanche
 * 480g de mélange de farines
-* 8g de sel
-* 390g d'eau
 
 ## Préparation :
 

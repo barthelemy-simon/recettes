@@ -1,20 +1,17 @@
 # Buns au levain
 
-## Ingrédients : (pour 3 buns)
-* 80g de levain liquide
-* 200g de farine
-* 100g de lait
-* 12g de beurre mou
-* 1/2 càc de sel
-* 1/2 càc de sucre
+## Ingrédients : (pour 6 buns)
+* 160g de levain liquide
+* 400g de farine
+* 200g de lait
+* 25g de beurre mou
 
 ## Préparation :
 
 ### Pétrissage :
-
-* Dans un bol, mélanger 80g de levain liquide, 200g de farine, 100g de lait, 1/2 càc de sel et 1/2 càc de sucre.
+* Dans un bol, mélanger 160g de levain liquide, 400g de farine, 200g de lait, 1 càc de sel et 1 càc de sucre.
 * Quand tous les éléments sont amalgamés, pétrir cette pâte pendant quelques minutes à la main.
-* Incorporer en pétrissant 12g de beurre mou au mélange.
+* Incorporer en pétrissant 25g de beurre mou au mélange.
 * Continuer à pétrir cette pâte.
 
 ### Pointage :

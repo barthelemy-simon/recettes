@@ -11,5 +11,5 @@
 ## Préparation :
 * Préchauffer le four à 200°C.
 * Mélanger 4 oeufs et 200g de scure.
-* Ajouter 200g de farine, 200g de beurre fondu, un sachet de levure, une pincée de sel et 500g de crème de marrons et bien mélanger.
+* Ajouter 200g de farine, 200g de beurre fondu, 1 sachet de levure, une pincée de sel et 500g de crème de marrons et bien mélanger.
 * Faire cuire 45min.

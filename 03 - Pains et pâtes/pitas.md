@@ -2,11 +2,9 @@
 
 ## Ingrédients : (pour 10 pitas)
 * 5g de levure boulangère
-* 300g d'eau
 * 100g de levain liquide
 * 500g de farine
 * 55g d'huile d'olive
-* 15g de sel
 
 ## Préparation :
 

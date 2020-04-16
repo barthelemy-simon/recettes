@@ -4,7 +4,6 @@
 * 250g de farine
 * 125g levain liquide
 * 50g cassonade
-* 4g sel
 * 1 gros oeuf
 * 70g lait entier
 * 125g beurre doux
