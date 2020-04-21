@@ -27,7 +27,7 @@
 * Fariner le plan de travail.
 * Étaler le pâton au rouleau à la dimension de votre plaque de four. Penser à décoller l'abaisse de temps en temps.
 * Déposer l’abaisse de pâte sur une plaque recouverte de papier sulfurisé.
-* La piquer à l’aide d'une fourchette en laissant un bord  d'1cm.
+* La piquer à l’aide d'une fourchette en laissant un bord d'1cm.
 
 ### Apprêt :
 * Couvrir d’un linge légèrement humide et laisser pousser 1h.
