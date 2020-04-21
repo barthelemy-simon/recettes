@@ -85,6 +85,7 @@
 * Dans la préparation, **les quantités des ingrédients doivent être répétées**.
 * Les étapes doivent être décrites par des **phrases infinitives**.
 * Les ingrédients énumérables doivent être indiqués avec un chiffre dans la préparation.
+* Les étapes similaires (la découpe des légumes, par exemple) doivent être regroupées tant que possible sur une seule ligne.
 
 ### Remarques :
 * Des remarques peuvent être ajoutées pour aider le cuisinier. Si celles-ci sont ponctuelles et destinées à indiquer des pistes d'amélioration en vue de prochains essais avant d'être intégrées, elles seront placées au début de la recette. Si celles-ci sont générales et concernent, par exemple, une possibilité de remplacer un aliment, elles seront placées en fin de recette.

@@ -20,9 +20,7 @@
 ## Préparation :
 * Faire cuire 400g de nouilles de riz ou de linguine dans de l'eau bouillante selon la durée indiquée sur le paquet.
 * Faire cuire 600g de chou chinois pendant 10-15min dans une casserole d'eau salée. Il est aussi possible de le faire rissoler 5min dans une poêle chauffée préalablement avec 1 càs d'huile.
-* Émincer 1 oignon, 2 gousses d'ail et 2 échalotes.
-* Éplucher et couper 2 carottes en tagliatelles.
-* Laver, épépiner et couper 2 poivrons (1 rouge et 1 jaune) en lanières.
+* Émincer 1 oignon, 2 gousses d'ail et 2 échalotes. Éplucher et couper 2 carottes en tagliatelles. Laver, épépiner et couper 2 poivrons (1 rouge et 1 jaune) en lanières.
 * Dans un wok, faire chauffer de l'huile d'olive et de l'huile de coco, puis y jeter les émincés avec du sel et du poivre.
 * Lorsqu'ils sont dorés (pas brunis), ajouter les carottes et les poivrons et bien mélanger.
 * Faire cuire le tout. Les légumes doivent être *al dente*.
