@@ -4,8 +4,8 @@
 ### Plats&nbsp;:
 * [Chana Masala (Curry de pois chiches)](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/chana_masala.md)
 * [Galettes de lentilles](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/galettes_lentilles.md)
-* [Gyozas végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gyozas_vege.md)
 * [Lasagnes végétariennes](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/lasagnes_vege.md)
+* [Nems végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/nems_vege.md)
 * [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
 * [Quiche lorraine](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/quiche.md)
 * [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/sauce_pesto.md)
