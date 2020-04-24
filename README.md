@@ -29,23 +29,23 @@
 ### Architecture&nbsp;:
 * Les recettes doivent se composer de la manière suivante&nbsp;:
 > ### Nom de la recette
-> #### Ingrédients : (pour 2 personnes *ou autre quantité pertinente avec la recette*)
+> #### Ingrédients&nbsp;: (pour 2 personnes *ou autre quantité pertinente avec la recette*)
 > * Ingrédient n°1
 > * Ingrédient n°2
 > 
-> #### Préparation :
+> #### Préparation&nbsp;:
 > * Étape n°1
 > * Étape n°2
 
-* Pour les recettes comprenant plusieurs grandes étapes espacées (par exemple les pains), il sera possible de les séparer en parties au sein de la préparation, en plaçant les repos au sein de parties propres, de la manière suivante :
-> #### Préparation :
-> ##### Partie 1 :
+* Pour les recettes comprenant plusieurs grandes étapes espacées (par exemple les pains), il sera possible de les séparer en parties au sein de la préparation, en plaçant les repos au sein de parties propres, de la manière suivante&nbsp;:
+> #### Préparation&nbsp;:
+> ##### Partie 1&nbsp;:
 > * Étape n°1.1
 > * Étape n°1.2
-> ##### Partie 2 :
+> ##### Partie 2&nbsp;:
 > * Étape de préparation au repos
 > * Faire reposer pendant...
-> ##### Partie 3 :
+> ##### Partie 3&nbsp;:
 > * Étape n°3.1
 > * Étape n°3.2
 
@@ -86,6 +86,7 @@
 * Les étapes doivent être décrites par des **phrases infinitives**.
 * Les ingrédients énumérables doivent être indiqués avec un chiffre dans la préparation.
 * Les étapes similaires (la découpe des légumes, par exemple) doivent être regroupées tant que possible sur une seule ligne.
+* Pour la cuisson, la température du four doit être indiquée en **degrés Celsius**.
 
-### Remarques :
+### Remarques&nbsp;:
 * Des remarques peuvent être ajoutées pour aider le cuisinier. Si celles-ci sont ponctuelles et destinées à indiquer des pistes d'amélioration en vue de prochains essais avant d'être intégrées, elles seront placées au début de la recette. Si celles-ci sont générales et concernent, par exemple, une possibilité de remplacer un aliment, elles seront placées en fin de recette.
