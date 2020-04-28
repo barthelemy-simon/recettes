@@ -7,6 +7,12 @@
   * pâte : stiff starter + 410g d'eau + 110g de farine d'épeautre + 490g de farine T405.
 * Les horaires étaient les suivants : stiff starter fait la veille à 18h, autolyse à 15h30, pain pétri à 16h, premier tour à 17h45, second tour à 19h, troisième tour à 20h30, puis frigo, sortie à 8h, façonnage à 10h30, cuisson à 11h et autre pâton au frigo pour être cuit le surlendemain. 
 
+### Pain pétri le 28/04 :
+* Les quantités étaient les suivantes :
+  * stiff starter : 50g de levain + 50g d'eau + 110g de farine d'épeautre
+  * pâte : stiff starter + 340g d'eau + 100g de farine d'épeautre + 400g de farine T405.
+* Les horaires étaient les suivants : stiff starter fait la veille à 16h30, autolyse à 16h, pain pétri à 16h30, premier tour à 19h, second tour à 21h, puis frigo, sortie à 8h, façonnage à 10h30, cuisson à 11h et autre pâton au frigo pour être cuit le surlendemain. 
+
 ## Ingrédients : (pour 2 pains moyens)
 * 40g de levain liquide
 * 85g de farine blanche
