@@ -10,7 +10,7 @@
 * 100g de champignons
 * 50g de beurre
 * 50g de farine
-* 60cL de lait
+* 300mL de lait
 * Muscade
 * 1 boule de mozzarella
 * Des pâtes à lasagnes
