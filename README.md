@@ -81,6 +81,7 @@
 	| heures            | 1h30     |
 	| minutes           | 1min30   |
 	| secondes          | 10s      |
+* On préférera l'usage des millilitres aux centilitres pour leur simplicité de calcul en poids.
 * L'effort sera fait d'être **le plus précis** possible sur les ingrédients (par exemple, en précisant levure *boulangère* ou *chimique*).
 
 ### Préparation&nbsp;:
