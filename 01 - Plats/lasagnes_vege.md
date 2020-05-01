@@ -30,10 +30,8 @@
 ### Préparation de la sauce béchamel :
 * Dans une casserole, faire fondre 50g de beurre à feu moyen.
 * Lorsqu'il est fondu, ajouter 50g de farine et bien mélanger.
-* Lorsque la préparation (le roux) atteint une couleur dorée, arrêter le feu.
-* Dans une autre casserole, porter à ébulittion 60cL de lait.
-* Le verser ensuite sur le roux en filet continu en battant avec un fouet pour éviter les grumeaux.
-* Remettre à cuire à feu doux pendant quelques minutes jusqu'à obtenir la consistance souhaitée.
+* Lorsque la préparation (le roux) atteint une couleur dorée, verser petit à petit du 300mL de lait et battre avec un fouet pour éviter les grumeaux.
+* Laisser cuire à feu doux pendant quelques minutes jusqu'à obtenir la consistance souhaitée.
 * À la sortie du feu, assaisonner avec du sel, du poivre et de la muscade.
 
 ### Montage et cuisson :
