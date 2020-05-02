@@ -13,7 +13,7 @@
 * Lorsqu'elles sont cuites, à l'aide d'un écrase-purée, les réduire en purée.
 * Laisser refroidir.
 
-### Création des gnocchi :
+### Façonnage :
 * Lorsque la purée est froide, incorporer 1 oeuf et 30g de parmesan. Bien mélanger.
 * Ajouter ensuite 400g farine petit à petit en mélangeant jusqu'à obtention d'une pâte non collante et ferme.
 * Lorsque le mélange est prêt, ajouter une pincée de sel et du poivre.
