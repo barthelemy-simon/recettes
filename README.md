@@ -9,7 +9,6 @@
 * [Nems végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/nems_vege.md)
 * [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
 * [Quiche lorraine](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/quiche.md)
-* [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/sauce_pesto.md)
 
 ### Desserts&nbsp;:
 * [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
@@ -28,6 +27,8 @@
 * [Pâte brisée](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pate_brisee.md)
 * [Pitas au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pitas.md)
 
+### Sauces&nbsp;:
+* [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces/sauce_pesto.md)
 ## Règles dans la rédaction des recettes&nbsp;:
 ### Architecture&nbsp;:
 * Les recettes doivent se composer de la manière suivante&nbsp;:
