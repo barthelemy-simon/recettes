@@ -4,7 +4,7 @@
 ### Plats&nbsp;:
 * [Chana Masala (Curry de pois chiches)](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/chana_masala.md)
 * [Galettes de lentilles](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/galettes_lentilles.md)
-* [Gnocchi à la sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gnocchi.md)
+* [Gnocchi](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gnocchi.md)
 * [Lasagnes végétariennes](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/lasagnes_vege.md)
 * [Nems végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/nems_vege.md)
 * [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
@@ -28,7 +28,9 @@
 * [Pitas au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pitas.md)
 
 ### Sauces&nbsp;:
+* [Sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces/sauce_parmesan.md)
 * [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces/sauce_pesto.md)
+
 ## Règles dans la rédaction des recettes&nbsp;:
 ### Architecture&nbsp;:
 * Les recettes doivent se composer de la manière suivante&nbsp;:
