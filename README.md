@@ -3,6 +3,7 @@
 ## Liens&nbsp;:
 ### Plats&nbsp;:
 * [Chana Masala (Curry de pois chiches)](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/chana_masala.md)
+* [Galettes de haricots rouges](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/galettes_haricots_rouges.md)
 * [Galettes de lentilles](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/galettes_lentilles.md)
 * [Gnocchi](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gnocchi.md)
 * [Lasagnes végétariennes](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/lasagnes_vege.md)
