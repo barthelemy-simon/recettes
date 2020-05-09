@@ -1,12 +1,13 @@
 # Falafels
 
 ## Ingrédients : (pour environ 20 falafels)
-* 400g de haricots rouges
+* 500g de pois chiches (poids égoutté)
 * 1 oignon
-* 1 oeuf
-* 100g de farine
-* 2 càc d'herbes de Provence
-* 1 pincée de piment de Cayenne
+* 4 gousses d'ail
+* 1/2 bouquet de coriandre fraîche
+* 1/2 bouquet de persil
+* 2 càc de cumin
+* 1 càc de cardamone
 
 ## Préparation :
 * 2h avant de commencer la préparataion, égoutter 500g de pois chiches, les rincer et les mettre à sécher sur une plaque avec du papier absorbant.
