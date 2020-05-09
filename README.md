@@ -31,8 +31,8 @@
 * [Pitas au levain](https://github.com/barthelemy-simon/recettes/blob/master/03%20-%20Pains%20et%20p%C3%A2tes/pitas.md)
 
 ### Sauces et accompagnements&nbsp;:
-* [Sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces/sauce_parmesan.md)
-* [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces/sauce_pesto.md)
+* [Sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_parmesan.md)
+* [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_pesto.md)
 
 ## Règles dans la rédaction des recettes&nbsp;:
 ### Architecture&nbsp;:
