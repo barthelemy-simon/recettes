@@ -1,4 +1,4 @@
-# Gâteau à la crème de marrons 
+# Gâteau à la Crème de Marrons 
 
 ## Ingrédients :
 * 4 oeufs

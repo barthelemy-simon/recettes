@@ -1,4 +1,4 @@
-# Sauce au parmesan
+# Sauce au Parmesan
 
 ## Ingrédients : (pour 4 personnes)
 * 200mL de crème fraîche

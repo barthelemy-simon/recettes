@@ -1,4 +1,4 @@
-# Gâteau au chocolat 
+# Gâteau au Chocolat 
 
 ## Ingrédients :
 * 200g de chocolat

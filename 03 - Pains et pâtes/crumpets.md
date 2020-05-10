@@ -1,4 +1,4 @@
-# Crumpets au levain :
+# Crumpets au Levain :
 
 ## Ingrédients : (pour environ 8 crumpets)
 * 300g de levain liquide (pas forcément mûr, il peut sortir du réfrigérateur)

@@ -1,4 +1,4 @@
-# Pitas au levain
+# Pitas au Levain
 
 ## Ingrédients : (pour 10 pitas)
 * 5g de levure boulangère

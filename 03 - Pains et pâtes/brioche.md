@@ -1,4 +1,4 @@
-# Brioche au levain
+# Brioche au Levain
 
 ## Ingrédients : (pour 1 brioche)
 * 250g de farine

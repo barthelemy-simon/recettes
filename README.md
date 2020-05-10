@@ -60,6 +60,8 @@
 > * Étape n°3.1
 > * Étape n°3.2
 
+* Les titres des recettes seront écrits avec des majuscules à chaque mot important au début de la recette. Ils seront aussi reportés, cette fois-ci avec une majuscule au premier mot seulement dans ce fichier README.md afin de donner le lien vers la recette en question.
+
 ### Ingrédients&nbsp;:
 * La liste des ingrédients sert de **base pour établir une liste de course**. Dans ce cadre, ils doivent tous être indiqués à l'exception des "ingrédients de fond de tiroir", si tant est qu'ils soient utilisés dans des quantités raisonnables (on prendra une limite à 10g) et non précises. L'eau ne sera jamais indiquée. Les "ingrédients de fond de tiroir" font exhaustivement partie de la liste suivante&nbsp;:
   * Beurre

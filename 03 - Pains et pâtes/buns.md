@@ -1,4 +1,4 @@
-# Buns au levain
+# Buns au Levain
 
 ## Ingrédients : (pour 6 buns)
 * 160g de levain liquide

@@ -1,4 +1,4 @@
-# Pâte à pizza au levain
+# Pâte à Pizza au Levain
 
 ## Ingrédients : (pour 1 assez grosse pâte)
 * 250g de farine T65

@@ -1,4 +1,4 @@
-# Pain classique (sur 1-2 jour(s)) :
+# Pain Classique (sur 1-2 jour(s)) :
 
 ## Ingrédients : (pour 2 pains moyens)
 * 200g de levain liquide

@@ -1,4 +1,4 @@
-# Cookies au chocolat
+# Cookies au Chocolat
 
 ## Ingrédients :
 * 95g de beurre

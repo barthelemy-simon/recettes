@@ -1,4 +1,4 @@
-# Pain de campagne (sur 3 jours) :
+# Pain de Campagne (sur 3 jours) :
 
 ## Ingrédients : (pour 2 pains moyens)
 * 50g de levain liquide

@@ -1,4 +1,4 @@
-# Pâte brisée
+# Pâte Brisée
 
 ## Ingrédients : (pour 1 pâte)
 * 150g de farine

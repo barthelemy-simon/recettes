@@ -1,4 +1,4 @@
-# Foccacia au levain
+# Foccacia au Levain
 
 ## Ingrédients : (pour 1 foccacia)
 * 400g de farine
