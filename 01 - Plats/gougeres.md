@@ -1,4 +1,4 @@
-# Gougères au fromage
+# Gougères au Fromage
 
 ## Ingrédients : (pour environ 20 gougères)
 * 80g de beurre

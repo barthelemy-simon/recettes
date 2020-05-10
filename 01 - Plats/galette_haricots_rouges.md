@@ -1,4 +1,4 @@
-# Galettes de haricots rouges
+# Galettes de Haricots Rouges
 
 ## Ingrédients : (pour 4 personnes)
 * 400g de haricots rouges
