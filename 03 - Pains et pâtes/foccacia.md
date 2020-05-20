@@ -12,7 +12,7 @@
 ### Pétrissage à la main :
 * Mettre 400g de farine dans un saladier et faire un large puits.
 * Verser 225g d'eau puis pétrir rapidement pendant environ 5min.
-* Ajouter ensuite 150g de levain liquide, 85g d'huile d'olive et 5g de sel et pétrir à nouveau.
+* Ajouter ensuite 150g de levain liquide, 85g d'huile d'olive, 5g de sel et la garniture et pétrir à nouveau.
 * Lorsque la pâte est bien élastique, si vous le souhaitez, ajouter la garniture et pétrir à nouveau rapidement pour l'incorporer.
 
 ### Pointage :
