@@ -1,9 +1,5 @@
 # Chana Masala (Curry de pois chiches)
 
-## Remarques : 
-* Ajouter un peu de lait de coco. 
-* La coriandre fraîche est importante. 
-
 ## Ingrédients :
 * 1 oignon
 * 1 tomate
@@ -16,6 +12,7 @@
 * 1 càc de garam masala 
 * 1/2 càc de curcuma
 * 1 boite de conserve (540mL) de pois chiches égouttés
+* 50mL de lait de coco
 * Coriandre fraîche
 
 ## Préparation :
@@ -25,7 +22,10 @@
 * Faire frire 2 feuilles de laurier pendant 30sec, puis les retirer.
 * Verser la pâte dans la casserole et cuire 2-3min jusqu'à ce qu'elle prenne une couleur brun-doré.
 * Assaisonner d'1 càc de poudre de chili, d'1 càc de coriandre moulue, d'1 càc de garam masala, d'1/2 càc de curcuma et d'une pincée de sel et cuire 2-3min.
-* Ajouter de l'eau pour obtenir une sauce épaisse.
+* Ajouter 50mL de lait de coco de l'eau pour obtenir une sauce épaisse.
 * Porter à ébullition puis incorporer 1 boîte de pois chiches.
 * Faire chauffer pendant 5-7min.
 * Servir garni de coriandre fraîche.
+
+## Remarque : 
+* La coriandre fraîche pour le service est importante. 
