@@ -25,5 +25,5 @@
 
 ## Remarques :
 * En général, il faut environ 400g de farine, mais cela dépend des pommes de terre utilisées. il faut faire au jugé.
-* La recette se marie particulièrement bien avec une poêllée de champignons, de la roquette et une [sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces/sauce_parmesan.md).
+* La recette se marie particulièrement bien avec une poêllée de champignons, de la roquette et une [sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_parmesan.md).
 * Il est aussi possible de réaliser la recette avec des patates douces, du potiron, voire un mélange des trois.
