@@ -2,6 +2,7 @@
 
 ## Liens&nbsp;:
 ### Plats&nbsp;:
+* [Cake salé](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/cake_sale.md)
 * [Chana Masala (Curry de pois chiches)](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/chana_masala.md)
 * [Falafels](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/falafels.md)
 * [Galettes de haricots rouges](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/galettes_haricots_rouges.md)
@@ -17,6 +18,7 @@
 ### Desserts&nbsp;:
 * [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
 * [Carrot cake](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/carrot_cake.md)
+* [Cake au chocolat](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/cake_chocolat.md)
 * [Cookies](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/cookies.md)
 * [Cookies à l'avoine](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/oatmeal_cookies.md)
 * [Gâteau au chocolat](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/gateau_chocolat.md)
