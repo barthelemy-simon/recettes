@@ -82,7 +82,7 @@
 	| Unité             | Syntaxe  |
 	| ----------------- | -------: |
 	| kilogrammes       | 1kg      |
-	| grammes           | 10.5g    |
+	| grammes           | 10g      |
 	|                   |          |
 	| litres            | 1L       |
 	| centilitres       | 1cL      |
