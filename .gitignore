@@ -1,3 +1,10 @@
-# Specify filepatterns you want git to ignore.
+### Hugo ###
+# Working
+themes/
 
-.DS_Store
+# Generated files by hugo
+/public/
+/resources/_gen/
+
+### Code ###
+.vscode/*

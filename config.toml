@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Recettes"
+theme = "hulga"
+
+[params]
+  # show in HTML meta tag
+  author = "Gregoire Chalony"
+  description = "Recipe website"
+
+  # change bulma's primary color
+  primaryColor = "#1793d0"
+
+  # subtitle on homepage
+  subtitle = "Les recettes c'est super chouette"
+
+  # copyright text on footer
+  copyright = "Copyright © 2020 wlh. All rights reserved."
+
+  # enable katex rendering on every post page
+  math = true
+
+  # enable toc on every post page
+  toc = true
+
+[menu]
+  [[menu.main]]
+    identifier = "index"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
