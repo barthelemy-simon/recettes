@@ -40,6 +40,9 @@
 * [Sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_parmesan.md)
 * [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_pesto.md)
 
+### Thermomix&nbsp;:
+* [Soupe de butternut](https://github.com/barthelemy-simon/recettes/blob/master/05%20-%20Thermomix/soupe_butternut.md)
+
 ## Règles dans la rédaction des recettes&nbsp;:
 ### Architecture&nbsp;:
 * Les recettes doivent se composer de la manière suivante&nbsp;:
