@@ -39,6 +39,7 @@
 * [Houmous](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/houmous.md)
 * [Sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_parmesan.md)
 * [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_pesto.md)
+* [Sauce béchamel](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_bechamel.md)
 
 ### Thermomix&nbsp;:
 * [Soupe de butternut](https://github.com/barthelemy-simon/recettes/blob/master/05%20-%20Thermomix/soupe_butternut.md)
