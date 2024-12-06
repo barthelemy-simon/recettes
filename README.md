@@ -15,6 +15,7 @@
 * [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
 * [Risotto aux champignons](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/risotto_champignons.md)
 * [Quiche lorraine](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/quiche.md)
+* [Velouté de courge aux marrons](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/veloute_courge_marrons.md)
 
 ### Desserts&nbsp;:
 * [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
