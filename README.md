@@ -9,11 +9,13 @@
 * [Galettes de lentilles](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/galettes_lentilles.md)
 * [Gnocchi](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gnocchi.md)
 * [Gougères au fromage](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/gougeres.md)
+* [Lasagnes de butternut](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/lasagnes_butternut.md)
 * [Lasagnes végétariennes](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/lasagnes_vege.md)
 * [Nems végétariens](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/nems_vege.md)
 * [Pad-Thaï végétarien](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/pad_thai_vege.md)
 * [Risotto aux champignons](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/risotto_champignons.md)
 * [Quiche lorraine](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/quiche.md)
+* [Velouté de courge aux marrons](https://github.com/barthelemy-simon/recettes/blob/master/01%20-%20Plats/veloute_courge_marrons.md)
 
 ### Desserts&nbsp;:
 * [Bugnes](https://github.com/barthelemy-simon/recettes/blob/master/02%20-%20Desserts/bugnes.md)
@@ -39,6 +41,10 @@
 * [Houmous](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/houmous.md)
 * [Sauce au parmesan](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_parmesan.md)
 * [Sauce au pesto](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_pesto.md)
+* [Sauce béchamel](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_bechamel.md)
+
+### Thermomix&nbsp;:
+* [Soupe de butternut](https://github.com/barthelemy-simon/recettes/blob/master/05%20-%20Thermomix/soupe_butternut.md)
 
 ## Règles dans la rédaction des recettes&nbsp;:
 ### Architecture&nbsp;:

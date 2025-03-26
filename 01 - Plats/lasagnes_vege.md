@@ -8,10 +8,7 @@
 * 1 courgette
 * 1 aubergine
 * 100g de champignons
-* 50g de beurre
-* 50g de farine
-* 300mL de lait
-* Muscade
+* 250g de sauce béchamel
 * 1 boule de mozzarella
 * Des pâtes à lasagnes
 
@@ -27,13 +24,6 @@
 * Couper en rondelles 1 courgette, 1 aubergine et 100g de champignons.
 * Étaler les rondelles de courgette et d'aubergine sur une plaque et les mettre à sécher au four pendant environ 15min.
 
-### Préparation de la sauce béchamel :
-* Dans une casserole, faire fondre 50g de beurre à feu moyen.
-* Lorsqu'il est fondu, ajouter 50g de farine et bien mélanger.
-* Lorsque la préparation (le roux) atteint une couleur dorée, verser petit à petit du 300mL de lait et battre avec un fouet pour éviter les grumeaux.
-* Laisser cuire à feu doux pendant quelques minutes jusqu'à obtenir la consistance souhaitée.
-* À la sortie du feu, assaisonner avec du sel, du poivre et de la muscade.
-
 ### Montage et cuisson :
 * Faire préchauffer le four à 210°C, chaleur tournante.
 * Couper en cubes 1 boule de mozzarella.
@@ -41,3 +31,6 @@
 * Alterner ensuite les couches de pâtes à lasagnes, de légumes, de sauce tomate et de sauce béchamel en terminant par une couche de pâtes.
 * Verser et étaler le reste de sauce béchamel et recouvrir de cubes de mozzarella.
 * Faire cuire au four pendant 30min.
+
+## Commentaires : 
+* Le mieux est de faire sa béchamel maison en suivant la [recette](https://github.com/barthelemy-simon/recettes/blob/master/04%20-%20Sauces%20et%20accompagnements/sauce_bechamel.md).
